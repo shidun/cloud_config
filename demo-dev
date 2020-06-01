@@ -1,0 +1,5 @@
+server.port=8033
+spring.application.name=demo
+eureka.client.service-url.defualtZone=http://dahua-db-eureka1:8761/eureka/,http://dahua-db-eureka2:8762/eureka/
+feign.hystrix.enabled=true
+test.name=shidun
